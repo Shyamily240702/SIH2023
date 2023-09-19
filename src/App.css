@@ -1,0 +1,11 @@
+/* Add any global styles or overrides for your entire app here */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5; /* Set a background color if needed */
+}
+
+.App {
+  text-align: center;
+}

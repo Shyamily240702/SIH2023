@@ -1,0 +1,66 @@
+/* Styles for the Services Page */
+.services {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .services h2 {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  /* Styles for Service Categories */
+  .service-category {
+    background-color: #f2f2f2;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .service-category h3 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .service-category p {
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+    color: #555;
+  }
+  
+  /* Benefits List */
+  .benefits {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 1.5rem;
+  }
+  
+  .benefits li {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    color: #555;
+  }
+  
+  /* Case Study */
+  .case-study {
+    background-color: #fff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .case-study h4 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .case-study p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  /* Add more styles as needed */
+  

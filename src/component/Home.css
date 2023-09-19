@@ -1,0 +1,131 @@
+/* Header styles */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #0073e6; /* Header background color */
+    color: white;
+  }
+  
+  .logo img {
+    height: 40px; /* Adjust the logo size */
+  }
+  
+  .navigation ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navigation ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  
+  /* Hero section styles */
+  .hero {
+    text-align: center;
+    padding: 2rem 0;
+  }
+  
+  .hero img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .hero h2 {
+    font-size: 2rem;
+    margin-top: 1rem;
+    color: #333; /* Hero headline color */
+  }
+  
+  /* Services overview styles */
+  .services-overview {
+    text-align: center;
+    padding: 2rem 0;
+  }
+  
+  .services-overview h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #333; /* Services overview headline color */
+  }
+  
+  .services-overview p {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .service-buttons {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .service-button {
+    background-color: #0073e6; /* Service button background color */
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    font-weight: bold;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  /* Emergency resources styles */
+  .emergency-resources {
+    text-align: center;
+    padding: 2rem 0;
+  }
+  
+  .emergency-resources h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #333; /* Emergency resources headline color */
+  }
+  
+  .emergency-resources p {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .emergency-button {
+    background-color: #e74c3c; /* Emergency button background color */
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    font-weight: bold;
+    font-size: 1rem;
+    text-decoration: none;
+  }
+  
+  /* Latest news styles */
+  .latest-news {
+    text-align: center;
+    padding: 2rem 0;
+  }
+  
+  .latest-news h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #333; /* Latest news headline color */
+  }
+  
+  .news-item {
+    margin-bottom: 2rem;
+  }
+  
+  .news-item img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .news-item p {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    color: #555; /* News item description color */
+  }
+  

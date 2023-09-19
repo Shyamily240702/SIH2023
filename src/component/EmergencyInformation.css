@@ -1,0 +1,93 @@
+/* Styles for the Emergency Information Page */
+.emergency-information {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .emergency-information h2 {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  /* Styles for Emergency Contacts */
+  .emergency-contacts {
+    margin-bottom: 2rem;
+  }
+  
+  .emergency-contacts h3 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .emergency-contacts ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .emergency-contacts li {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    color: #555;
+  }
+  
+  /* Styles for Emergency Plans */
+  .emergency-plans {
+    margin-bottom: 2rem;
+  }
+  
+  .emergency-plans h3 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .emergency-plans p {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    color: #555;
+  }
+  
+  .emergency-plans ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .emergency-plans li {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .emergency-plans a {
+    color: #0073e6; /* Link color */
+    text-decoration: none;
+  }
+  
+  .emergency-plans a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Styles for Safety Tips */
+  .safety-tips h3 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .safety-tips p {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    color: #555;
+  }
+  
+  .safety-tips ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .safety-tips li {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    color: #555;
+  }
+  
